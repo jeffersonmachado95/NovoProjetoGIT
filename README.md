@@ -1,3 +1,3 @@
-## 👨‍💻 Projeto para o Curso de Extenção Github - Ânima Educação.
+## 👨‍💻 Projeto para o Curso de Extenção Github - Ânima Educação
 
 
